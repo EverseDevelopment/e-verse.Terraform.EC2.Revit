@@ -1,7 +1,7 @@
 # e-verse Terraform EC2 Automation
 
 <p align="center">
-<img width="350px"  src="https://s3.amazonaws.com/everse.assets/GithubReadme/draco3d-vert.svg" />
+<img src="https://s3.amazonaws.com/everse.assets/GithubReadme/githubeverseTerraform-01.png" />
 </p>
 
 # About
