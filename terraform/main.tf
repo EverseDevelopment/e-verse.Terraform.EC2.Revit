@@ -11,7 +11,7 @@ data "aws_iam_role" "existing_role" {
 }
 
 resource "aws_instance" "example" {
-  ami           = "ami-003d5472275be9807"  # AMI ID of a windows server 2022 instance and Revit 2024 installed
+  ami           = "Change this to your desired AMI"  # AMI ID of a windows server 2022 instance and Revit 2024 installed
   instance_type = "t3.xlarge"    # Smaller instances than this cannot run Revit properly
 
    root_block_device {
